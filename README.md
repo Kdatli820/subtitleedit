@@ -106,3 +106,4 @@ If you’d like to support the continued development of Subtitle Edit, please co
 - [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=4XEHVLANCQBCU)
 
 ---
+download: https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.15/SubtitleEdit-4.0.15-Setup.exe
